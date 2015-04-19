@@ -1,0 +1,3 @@
+[submodule "jquery.appear"]
+	path = jquery.appear
+	url = git@github.com:morr/jquery.appear.git
